@@ -1,5 +1,6 @@
 # IRIS Classification Project
-![Movie Recommendation System Thumbnail](path/to/your/image/thumbnail.png)
+
+![IRIS Classification](https://github.com/adil6572/Bharat-Intern-internship/blob/master/TASK-02/thumbnail.png)
 
 ## Overview
 
@@ -17,7 +18,8 @@ Welcome to the IRIS Classification project repository. This project focuses on u
 - Scikit-learn
 - Jupyter Notebooks
 
-   `
+  `
+
 ## Results
 
 The Logistic Regression model achieved an accuracy score of 0.9667, showcasing its effectiveness in accurately classifying iris flowers. The evaluation metrics further validate the model's performance.

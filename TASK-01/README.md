@@ -1,6 +1,6 @@
 # Movie Recommendation System Project
 
-![Movie Recommendation System Thumbnail](path/to/your/image/thumbnail.png)
+![Movie Recommendation System](https://github.com/adil6572/Bharat-Intern-internship/blob/master/TASK-01/thumbnail.png)
 
 ## Overview
 
@@ -17,7 +17,6 @@ Welcome to the Movie Recommendation System project repository. This project focu
 - Python
 - Pandas
 - Jupyter Notebooks
-
 
 ## Results
 
